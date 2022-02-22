@@ -3,6 +3,7 @@ kind: Route
 metadata:
   labels:
     app: config-demo
+    ravi: gupta
   name: config-demo
 spec:
   port:
