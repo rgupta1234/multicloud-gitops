@@ -1,6 +1,6 @@
 ---
 # Source: acm/templates/policies/application-policies.yaml
-# TODO: Also create a GitOpsCluster.apps.open-cluster-management.io
+# TODO: Also create a GitOpsCluster.apps.open-cluste 
 ---
 # Source: acm/templates/policies/hub-certificate-authority.yaml
 # We only push the hub CA to the regional clusters when the user explicitely tells us so
